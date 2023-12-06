@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264512838858",
+    "project_id": "wena-11c50",
+    "storage_bucket": "wena-11c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264512838858:android:a08b5b114b130c01bea833",
+        "android_client_info": {
+          "package_name": "com.wena.wena_partners_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264512838858-uskloeulnlkciqe55cs8bvvt4thcuaia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wena.wena_partners_app",
+            "certificate_hash": "87210ab851de8686e9173ed27c79164e38650865"
+          }
+        },
+        {
+          "client_id": "264512838858-065mc1vlfaprlif5h8srp46joac564s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqkRBSzfyy1CQvkBHlHAAkxN40Ml7aH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264512838858-065mc1vlfaprlif5h8srp46joac564s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
